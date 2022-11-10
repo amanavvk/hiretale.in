@@ -1,0 +1,498 @@
+
+
+@media (max-width: 1399px) {
+    body {
+        font-size: 15px;
+    }
+
+    .header-logo {
+        width: 170px;
+    }
+    .main-menu ul li a {
+        font-size: 15px;
+    }
+    .main-menu ul li {
+        margin-right: 25px;
+    }
+    .main-menu {
+        margin: 0 26px 0 0;
+    }
+    .default-button {
+        padding: 8px 13px;
+        border-radius: 3px;
+        font-size: 15.5px;
+    }
+
+
+
+    .hero-content .h1 {
+        margin: 0 0 20px;
+        font-size: 80px;
+    }
+    .hero-content p {
+        font-size: 27px;
+    }
+    .hero-section {
+        padding: 180px 0 210px;
+    }
+
+
+
+    .a-single .icon {
+        width: 57px;
+        height: 52px;
+        margin: 0 0 16px;
+    }
+    .a-single .text h3 {
+        margin: 0 0 2px;
+        font-size: 40px;
+    }
+    .a-single .text p {
+        font-size: 20px;
+    }   
+    .section-a {
+        padding: 60px 0;
+    }
+
+
+
+
+    .title-stl1 .row1 .h2 {
+        font-size: 44px;
+        margin: 0 60px -9px 0;
+        min-width: 200px;
+    }
+    .title-stl1 .row1 .line {
+        height: 1px;
+    }
+    .title-stl2 .h3 {
+        margin: 0 0 5px;
+        font-size: 24px;
+    }
+    .title-stl2 .dec-line {
+        width: 80px;
+        height: 4px;
+    }
+    .origin-row .title-side {
+        width: 29%;
+    }
+    .origin-single .text h3 {
+        font-size: 24px;
+    }
+    .origin-section .section-title {
+        margin: 0 0 75px;
+    }
+    .origin-single .image {
+        height: 253px;
+        margin: 0 0 16px;
+    }
+    .origin-row .origin-content-wrap {
+        padding: 0 0 30px;
+        margin: 0 0 60px;
+        border-width: 1px;
+    }
+
+
+
+
+    .about-us-section .section-title {
+        margin: 0 0 50px;
+    }
+    .about-us-section {
+        padding: 55px 0;
+    }
+    .about-content-single .text h3 {
+        font-size: 22px;
+    }
+    .about-content-single .text p {
+        font-size: 16px;
+    }
+    .about-content-single .text {
+        padding: 18px 13px 21px;
+    }
+
+
+
+
+
+    .profile-section {
+        padding: 70px 0 60px;
+    }
+    .profile-section .section-title {
+        margin: 0 0 50px;
+    }
+    .profile-content .text h3 {
+        margin: 0 0 20px;
+        font-size: 28px;
+    }
+    .profile-content .text p {
+        margin: 0 0 19px;
+    }
+
+
+
+    .team-section {
+        padding: 70px 0 80px;
+    }
+    .team-section .section-title {
+        margin: 0 0 65px;
+    }
+    .team-member .text h3 {
+        margin: 0 0 1px;
+        font-size: 16px;
+    }
+    .team-member .text p {
+        font-size: 10px;
+    }
+    .team-member .text {
+        padding: 13px 8px 11px;
+    }
+
+
+
+
+    .client-section {
+        padding: 70px 0;
+    }
+    .client-section .section-title {
+        margin: 0 0 65px;
+    }
+
+
+
+    .testimonial-section {
+        padding: 70px 0 70px;
+        z-index: 0;
+    }
+    .testimonial-section .section-title {
+        margin: 0 0 65px;
+    }
+    .testimonial-nav-slide .image {
+        height: 75px;
+        width: 75px;
+        border-width: 1px;
+    }
+    .testimonial-nav-slide {
+        padding: 17px;
+    }
+    .testimonial-nav-slider {
+        margin: 0 auto;
+        width: 350px;
+    }
+    .testimonial-section .section-title {
+        margin: 0 0 55px;
+    }
+    .testimonial-slide {
+        font-size: 16px;
+        padding: 0 220px;
+    }
+    .testimonial-slide .quote {
+        margin: 9px 0px 30px;
+        width: 40px;
+    }
+    .testimonial-slide h3 {
+        margin: 0 0 10px;
+    }
+    .testimonial-slider .slick-arrow {
+        --hr-off: 120px;
+        top: 5px;
+        height: 36px;
+        width: 36px;
+        font-size: 17px;
+    }
+
+
+
+
+    .title-stl-f h3 {
+        font-size: 23px;
+    }
+    .title-stl-f {
+        padding: 0 0 7px;
+        margin: 0 0 40px;
+    }
+    .footer-section {
+        padding: 50px 0;
+    }
+    .footer-left .footer-logo {
+        width: 180px;
+        margin: 20px 0 40px;
+    }
+    .footer-left p {
+        font-size: 16px;
+    }
+    .social-menu ul li a {
+        height: 45px;
+        width: 44px;
+        font-size: 17px;
+        border-radius: 9px;
+    }
+    .footer-social-menu {
+        margin: 25px 0 0;
+    }
+    .contact-menu ul li a .icon {
+        height: 34px;
+        width: 34px;
+        margin: 0 16px 0 0;
+        font-size: 17px;
+        border-radius: 6px;
+    }
+    .contact-menu ul li a {
+        font-size: 16px;
+    }
+    .footer-map {
+        margin: 37px 0 0;
+        height: 225px;
+    }
+}
+
+
+@media (max-width: 1199px) {
+    .hero-section {
+        padding: 140px 0 160px;
+    }
+
+
+
+
+    .origin-single .image {
+        height: 215px;
+        margin: 0 0 15px;
+    }
+
+}
+
+
+@media (max-width: 991px) {
+    .origin-row {
+        flex-wrap: wrap;
+    }
+    .origin-row .title-side {
+        width: 100%;
+        margin: 0 0 45px;
+    }
+
+
+
+    .profile-content {
+        flex-wrap: wrap;
+    }
+    .profile-content .image {
+        width: 100%;
+        margin: 10px 0% 46px;
+        display: flex;
+        justify-content: center;
+    }
+    .title-stl1 .row1 .h2 {
+        min-width: initial;
+    }
+    .team-member-wrap {
+        --item: 3;
+    }
+
+
+
+    .client-content {
+        --item: 3;
+    }
+
+
+
+    .testimonial-slide {
+        font-size: 16px;
+        padding: 0 60px;
+    }
+    .testimonial-slider .slick-arrow {
+        --hr-off: 10px;
+        top: 10px;
+    }
+
+
+
+    .footer-section-inner {
+        flex-wrap: wrap;
+    }
+    .footer-left {
+        width: 100%;
+        margin: 0 0 60px;
+    }
+    .footer-right {
+        width: 100%;
+    }
+}
+
+
+@media (max-width: 768px) {
+    .hero-content .h1 {
+        margin: 0 0 10px;
+        font-size: 55px;
+    }
+    .hero-content p {
+        font-size: 16px;
+    }
+    .hero-section {
+        padding: 100px 0 110px;
+    }
+
+
+
+
+    .header-logo {
+        width: 142px;
+    }
+    .header-section {
+        padding: 14px 0;
+    }
+
+
+
+    .content-a-wrap {
+        --item: 2;
+        justify-content: center;
+    }
+    .title-stl1 .row1 .h2 {
+        font-size: 36px;
+        margin: 0 18px -8px 0;
+    }
+    .origin-single .image {
+        height: 350px;
+        margin: 0 0 15px;
+    }
+
+
+
+    .about-us-content {
+        --item: 1;
+        --inner-space: 30px;
+    }
+
+
+
+
+    .team-member-wrap {
+        --item: 2;
+        --inner-space: 6%;
+    }
+
+
+
+
+    .client-content {
+        --item: 2;
+        --inner-space: 6%;
+    }
+
+
+
+    .title-stl-f {
+        padding: 0 0 5px;
+        margin: 0 0 25px;
+    }
+    .footer-left .footer-logo {
+        width: 180px;
+        margin: 8px 0 30px;
+    }
+
+
+
+    .origin-row .title-side {
+        padding-right: 0;
+    }
+}
+
+
+@media (max-width: 575px) {
+    .hero-section {
+        padding: 70px 0 80px;
+    }
+
+
+
+    .origin-single .image {
+        height: 320px;
+        margin: 0 0 15px;
+    }
+}
+
+
+@media (max-width: 460px) {
+    .content-a-wrap {
+        --item: 1;
+        --inner-space: 35px;
+    }
+    .section-a {
+        padding: 45px 0;
+    }
+
+
+
+
+    .origin-section {
+        padding: 60px 0 60px;
+    }
+
+
+    .origin-single .image {
+        height: 270px;
+    }
+    .origin-section .section-title {
+        margin: 0 0 66px;
+    }
+
+
+
+    .testimonial-slider .slick-arrow {
+        --hr-off: 0;
+        top: 10px;
+    }
+    .testimonial-slide {
+        padding: 0 40px;
+    }
+    .testimonial-slide p {
+        font-size: 14px;
+    }
+
+
+
+
+    .testimonial-nav-slide .image {
+        height: 60px;
+        width: 60px;
+    }
+    .testimonial-nav-slide {
+        padding: 12px;
+    }
+    .testimonial-nav-slider {
+        margin: 0 auto;
+        width: 290px;
+    }
+    .testimonial-section {
+        padding: 45px 0 40px;
+    }
+}
+
+@media (max-width: 390px) {
+    .hero-content .h1 {
+        margin: 0 0 8px;
+        font-size: 41px;
+    }
+    .hero-content p {
+        font-size: 13px;
+    }
+    .hero-section {
+        padding: 55px 0 44px;
+    }
+
+
+
+    .origin-single .image {
+        height: 220px;
+    }
+
+
+
+
+    .title-stl1 .row1 .h2 {
+        font-size: 33px;
+    }
+}
